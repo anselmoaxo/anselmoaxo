@@ -1,12 +1,19 @@
 ### Olá, eu sou Anselmo Xavier 👋
-<a href="https://www.linkedin.com/in/anselmoaxo/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><br>
-  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anselmoaxo/)
+
+Sou apaixonado por dados e programação, sempre buscando transformar informações em insights e contribuir para o futuro, linha de código por linha de código. 💻📊✨
+
+---
+
+## 🚀 Estatísticas do GitHub
+
 ![Anselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=anselmoaxo&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselmoaxo&hide=javascript,html)
 
-## Tecnologia que Uso
+---
+
+## 💻 Tecnologias que Uso
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,7 +26,6 @@
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+---
 
-
-
-"Paixão por dados e programação: construindo o futuro, transformando informações em insights, linha de código por linha de código. 💻📊✨"
+Se você deseja discutir tecnologia, dados ou colaboração em projetos, não hesite em entrar em contato! 😄
